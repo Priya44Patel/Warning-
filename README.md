@@ -2,7 +2,7 @@
 Foodborne Disease Outbreaks, 1998-2015 data from Kaggle
 
 
-I used the “Foodborne Disease Outbreaks, 1998–2015” dataset from the CDC (available on Kaggle) as the basis for my final Python project to practice data analysis and draw meaningful insights. 
+I used the “Foodborne Disease Outbreaks, 1998–2015” dataset from the CDC (available on Kaggle) as the basis for my first Python project to practice data analysis and draw meaningful insights. 
 My analysis included:
 
 Trend Analysis of Illnesses over Time
